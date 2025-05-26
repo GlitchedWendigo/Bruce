@@ -101,7 +101,7 @@ static const uint8_t MISO = SPI_SCK_PIN;
 #define CGRAM_OFFSET
 #define TFT_RGB_ORDER TFT_RGB
 #define TFT_INVERSION_ON
-#define TFT_PARALLEL_8_BIT
+//#define TFT_PARALLEL_8_BIT
 #define SMOOTH_FONT 1
 #define TFT_WIDTH 170
 #define TFT_HEIGHT 320
